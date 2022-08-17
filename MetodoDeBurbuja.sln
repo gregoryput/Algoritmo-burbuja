@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoDeBurbuja", "MetodoDeBurbuja\MetodoDeBurbuja.csproj", "{C992EBDC-B96E-423B-9849-9CD3604817AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C992EBDC-B96E-423B-9849-9CD3604817AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C992EBDC-B96E-423B-9849-9CD3604817AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C992EBDC-B96E-423B-9849-9CD3604817AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C992EBDC-B96E-423B-9849-9CD3604817AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD2C891-6DDD-4122-88A9-5A3BD4FC0CB8}
+	EndGlobalSection
+EndGlobal
